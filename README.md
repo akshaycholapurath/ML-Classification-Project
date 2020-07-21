@@ -1,1 +1,2 @@
 # ML-Classification-Project
+In this project, we use the Bank Past Loan dataset inorde to predict weather loan is paid off or defaulted. First we clean the data and then do EDA on the datasets and preprocess the data with Onehot encoding and Normalising. Then we run 4 Classification algorithms such as KNN, Logistic regression, Decision Tree and Support Vector Machines and the we compare those results.
